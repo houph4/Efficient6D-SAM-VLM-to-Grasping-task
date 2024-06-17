@@ -1,0 +1,1 @@
+A SAM-VLM based script that can be used for actual grasping, which can output the position information of the 3DBBOX of the final grabbing object and its minimum bounding box narrow edge angle posture, and output the narrow edge width for gripper opening control

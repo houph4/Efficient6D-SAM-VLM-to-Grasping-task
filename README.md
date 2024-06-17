@@ -1,8 +1,11 @@
 # Efficient6D-SAM-VLM-to-Grasp
-repo list : 
+Repo list : 
 
-1. An Efficient RGB-D features extractor to category-level and instance-level 6D pose estimation. 
-2. SAM-VLM to grasping task with 3DBBOX (Using Azure Kinect or Realsensing)
+1. An Efficient RGB-D features extractor to category-level and instance-level 6D pose estimation.
+2. Bidirectional cross attentin fusion with rgb-point cloud and globe-local features. 
+3. An end-to-end category level pose estimation inference scripts that includes real-time segmentation of SAM
+4. SAM-VLM to grasping task with 3DBBOX (Using Azure Kinect or Realsensing).
+
    
 ![Figure_1](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a4f72f66-477e-43bf-aac8-8ebccfcee4e7)
 ![Figure_2](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a9ceaa92-3c4e-42ee-b5dd-bee74f6247b9)

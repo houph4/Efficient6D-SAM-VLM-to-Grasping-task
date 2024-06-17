@@ -3,7 +3,7 @@ Repo list :
 
 1. An Efficient RGB-D features extractor to category-level and instance-level 6D pose estimation.
 2. Bidirectional cross attentin fusion with rgb-point cloud and globe-local features. 
-3. An end-to-end category level pose estimation inference scripts that includes real-time segmentation of SAM
+3. An end-to-end category level pose estimation inference scripts that includes real-time segmentation of SAM. (Free of shape piror)
 4. SAM-VLM to grasping task with 3DBBOX (Using Azure Kinect or Realsensing).
 
    

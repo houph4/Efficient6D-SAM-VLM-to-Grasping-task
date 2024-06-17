@@ -1,4 +1,7 @@
 # Efficient6D-SAM-VLM-to-Grasp
+
+**Our Repo is constantly being updated**
+
 Repo list : 
 
 1. An **Efficient RGB-D features extractor** to category-level and instance-level 6D pose estimation.

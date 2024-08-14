@@ -14,3 +14,14 @@ Repo list :
 ![Figure_2](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a9ceaa92-3c4e-42ee-b5dd-bee74f6247b9)
 ![Figure_3](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/574d96d4-51ae-4c38-b615-799dec31d0c7)
 ![output_video](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a6a887d7-95bc-4993-a1be-d33d1fde10dc)
+
+## About `requirements.txt`
+
+The `requirements.txt` file lists the Python packages and their versions that were installed in the development environment. However, please note that this file may contain more packages than are strictly necessary for running this project, as it includes all the dependencies present in the environment at the time of its creation.
+
+**We recommend that you review the packages and install only those that are relevant to your specific needs.** You can do this by editing the `requirements.txt` file before running the installation command or by selectively installing the packages you need.
+
+To install the necessary packages, use the following command:
+
+```bash
+pip install -r requirements.txt

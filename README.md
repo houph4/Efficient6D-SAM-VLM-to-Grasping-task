@@ -1,6 +1,6 @@
 # Efficient6D-SAM-VLM-to-Grasp
 
-**Our Repo is constantly being updated**
+**Our Repo is constantly being updated,the network model and checkpoints will be released during the paper submission**
 
 Repo list : 
 

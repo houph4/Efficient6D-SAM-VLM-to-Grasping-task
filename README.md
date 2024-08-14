@@ -1,4 +1,4 @@
-# Efficient6D-SAM-VLM-to-Grasp
+# LightPose
 
 **Our Repo is constantly being updated,the network model and checkpoints will be released during the paper submission**
 

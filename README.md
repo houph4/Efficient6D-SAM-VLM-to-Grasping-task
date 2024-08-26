@@ -17,6 +17,11 @@ Some demos about category-level 6D pose estimation (Without CAD reference).
 ![can](https://github.com/user-attachments/assets/d47c0e9b-8aaa-4e7f-a6d3-16e25549ac7a)
 
 
+https://github.com/user-attachments/assets/6165a0e6-d2a0-4355-9166-c7bab1ce3bc9
+
+
+
+
 
 
 ## About `requirements.txt`

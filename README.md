@@ -14,8 +14,6 @@ Some demos about category-level 6D pose estimation (Without CAD reference).
 ![Figure_2](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a9ceaa92-3c4e-42ee-b5dd-bee74f6247b9)
 ![Figure_3](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/574d96d4-51ae-4c38-b615-799dec31d0c7)
 ![output_video](https://github.com/houph4/Efficient6D-SAM-VLM-to-Grasping-task/assets/90714020/a6a887d7-95bc-4993-a1be-d33d1fde10dc)
-![Uploading can.gif…]()
-![Uploading bowl.gif…]()
 
 
 

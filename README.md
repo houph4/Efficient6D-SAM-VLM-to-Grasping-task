@@ -19,8 +19,6 @@ Some demos about category-level 6D pose estimation (Without CAD reference).
 
 
 
-
-
 ## About `requirements.txt`
 
 The `requirements.txt` file lists the Python packages and their versions that were installed in the development environment. However, please note that this file may contain more packages than are strictly necessary for running this project, as it includes all the dependencies present in the environment at the time of its creation.

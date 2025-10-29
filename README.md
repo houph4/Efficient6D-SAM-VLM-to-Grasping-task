@@ -36,3 +36,18 @@ To install the necessary packages, use the following command:
 
 ```bash
 pip install -r requirements.txt
+
+## :pencil: Citation
+If you find our code or models useful in your work, please cite [our paper]([https://arxiv.org/pdf/2505.06111](https://www.sciencedirect.com/science/article/abs/pii/S0952197625008905)):
+
+```bibtex
+@article{hou2025lightweight,
+  title={A lightweight network for category-level open-vocabulary object pose estimation with enhanced cross implicit space transformation},
+  author={Hou, Pihong and Zhang, Yongfang and Zhou, Wei and Ye, Boxuan and Wu, Yi},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={155},
+  pages={110890},
+  year={2025},
+  publisher={Elsevier}
+}
+```

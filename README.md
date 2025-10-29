@@ -34,8 +34,6 @@ The `requirements.txt` file lists the Python packages and their versions that we
 
 To install the necessary packages, use the following command:
 
-```bash
-pip install -r requirements.txt
 
 ## :pencil: Citation
 If you find our code or models useful in your work, please cite [our paper]([https://arxiv.org/pdf/2505.06111](https://www.sciencedirect.com/science/article/abs/pii/S0952197625008905)):
